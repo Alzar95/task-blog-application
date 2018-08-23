@@ -1,0 +1,14 @@
+.main-page {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.main-page h1 {
+    text-align: center;
+    color: green;
+}
+
+.list-blogs {
+    list-style-type: none;
+    cursor: default;
+}
